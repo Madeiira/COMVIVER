@@ -1,6 +1,6 @@
 <?php
 // Exclui o contato pelo ID
-
+ 
 include '../config/db.php';
 
 // Recebe o ID do contato via GET
